@@ -1,3 +1,7 @@
+# Final project image of Spotify website clone
+![image](https://github.com/Gumayusiii/spotify-react/assets/105390213/7c0b96f9-a15f-4c04-8644-a89182638a90)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
